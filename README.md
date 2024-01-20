@@ -20,7 +20,7 @@ Feel free to explore projects in any order that piques your interest. We encoura
 ### Contribution  
 Have an idea for a new project or want to contribute to an existing one? We welcome contributions!  
 
-### License
+### License not available
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code, contribute, and share!
 
